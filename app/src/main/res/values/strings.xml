@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">SmartIdScanDemo</string>
+    <string name="smartidlab">SmartIdLab</string>
+    <string name="continue_btn">Continue</string>
+    <string name="found_title">Result found</string>
+
+</resources>
